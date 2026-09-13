@@ -1,6 +1,6 @@
-# 🐘 Lord Ganesh Python Color Sketch Drawing
+# 🐘 Lord Ganpati Python Color Sketch Drawing
 
-A Python-based project that converts a Lord Ganesh image into an animated **color contour sketch** using **OpenCV, NumPy, and Turtle Graphics**.
+A Python-based project that converts a Lord Ganpati image into an animated **color contour sketch** using **OpenCV, NumPy, and Turtle Graphics**.
 
 The program processes the input image, detects its edges and contours using OpenCV, and then uses Turtle Graphics to draw those contours on the screen with the **original colors of the image**.
 
@@ -8,7 +8,7 @@ The program processes the input image, detects its edges and contours using Open
 
 ## ✨ Features
 
-* 🐘 **Lord Ganesh Sketch** – Converts a Ganesh image into a digital Turtle sketch.
+* 🐘 **Lord Ganpati Sketch** – Converts a Ganpati image into a digital Turtle sketch.
 * 🎨 **Original Image Colors** – The sketch uses the original colors detected from the image.
 * 🖼️ **Custom Image Support** – Any PNG or JPG image can be used.
 * 🔍 **Edge Detection** – Uses OpenCV Canny Edge Detection to detect image edges.
@@ -53,7 +53,7 @@ Download the project files and open the project folder in VS Code or another Pyt
 
 ### 2. Add the image
 
-Place your Ganesh image in the same folder as the Python file.
+Place your Ganpati image in the same folder as the Python file.
 
 The current code uses:
 
@@ -70,10 +70,10 @@ ganesh_2.png
 ### 3. Run the Python program
 
 ```bash
-python ganesh.py
+python Ganpati.py
 ```
 
-The Turtle window will open and the Ganesh sketch will start drawing automatically.
+The Turtle window will open and the Ganpati sketch will start drawing automatically.
 
 ---
 
@@ -273,9 +273,9 @@ Make sure the image is placed in the same project folder.
 ## 📁 Project Structure
 
 ```text
-Ganesh-Color-Sketch/
+Ganpati-Color-Sketch/
 │
-├── ganesh.py
+├── Ganpati.py
 ├── ganesh_2.png
 └── README.md
 ```
@@ -302,4 +302,3 @@ It is useful for learning:
 
 **Mansi Goswami**
 
-BCA Graduate | Python Backend Developer | Django Developer
